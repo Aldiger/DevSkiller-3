@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternetBankingRESTfulService.Web", "InternetBankingRESTfulService.Web\InternetBankingRESTfulService.Web.csproj", "{71B981A8-C881-4994-AAA1-C843C767F1EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternetBankingRESTfulService.Api", "InternetBankingRESTfulService.Api\InternetBankingRESTfulService.Api.csproj", "{060DEADB-66CD-4E78-A6C6-BE370E763778}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternetBankingRESTfulService.Tests", "InternetBankingRESTfulService.Tests\InternetBankingRESTfulService.Tests.csproj", "{E220D745-0AE1-4222-AD1F-A0F16D43A24F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B981A8-C881-4994-AAA1-C843C767F1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B981A8-C881-4994-AAA1-C843C767F1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B981A8-C881-4994-AAA1-C843C767F1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B981A8-C881-4994-AAA1-C843C767F1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060DEADB-66CD-4E78-A6C6-BE370E763778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060DEADB-66CD-4E78-A6C6-BE370E763778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060DEADB-66CD-4E78-A6C6-BE370E763778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060DEADB-66CD-4E78-A6C6-BE370E763778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E220D745-0AE1-4222-AD1F-A0F16D43A24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E220D745-0AE1-4222-AD1F-A0F16D43A24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E220D745-0AE1-4222-AD1F-A0F16D43A24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E220D745-0AE1-4222-AD1F-A0F16D43A24F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD366E31-958B-4FE0-8740-657F8019E59E}
+	EndGlobalSection
+EndGlobal
